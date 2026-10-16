@@ -1,0 +1,9 @@
+{
+  "name": "food-project-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix food_project_web_ready2 start",
+    "dev": "npm --prefix food_project_web_ready2 run dev"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+.git
+.env
+.netlify
+legacy_php_backup
+database
+*.sql
+npm-debug.log*
